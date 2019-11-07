@@ -3,6 +3,8 @@ PECL dbase extension compiled for Windows
 
 This repository contains `php_dbase` extension compiled for use on Windows.
 
+**You are encouraged to use official PECL build of version 7.0.1 -** https://pecl.php.net/package/dbase/7.0.1/windows
+
 PHP 7.3
 --------------------
 Based on pecl/dbase version [7.0.0beta1](https://pecl.php.net/package/dbase/7.0.0beta1).
